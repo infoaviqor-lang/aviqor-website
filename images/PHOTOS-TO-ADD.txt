@@ -1,0 +1,18 @@
+Save your own JPG photos in this "images" folder with EXACTLY these names and they appear automatically.
+Until then the site shows a sample output image (out-*.jpg) or a free Pexels stock photo.
+Tip: crop out GPS stamps and labels first, and keep each file under ~400 KB.
+
+ALREADY ADDED (your field photos, GPS overlays removed)
+photo-gpr-utility.jpg   photo-team.jpg   photo-project-oman.jpg   photo-drone-gpr.jpg   eq-leica-ds2000.jpg
+
+STILL OPEN
+photo-rail-ballast.jpg  photo-rail-track.jpg  photo-structural-scan.jpg  photo-rebar.jpg
+photo-consultancy.jpg   photo-gpr-output.jpg  photo-ert-survey.jpg  photo-srt-masw.jpg
+photo-laser-scanning.jpg  photo-topo-survey.jpg
+eq-leica-ds4000.jpg  eq-rail-gpr.jpg  eq-2ghz-antenna.jpg  eq-aimil-ert.jpg
+eq-aimil-seismograph.jpg  eq-handheld-scanner.jpg  eq-gnss.jpg
+
+LOGO FILES
+aviqor-logo.png        header logo (transparent)
+aviqor-logo-white.png  footer logo for dark background
+aviqor-logo-full.png   large logo with "with Quality Outcomes & Reliability"
